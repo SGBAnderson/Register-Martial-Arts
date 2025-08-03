@@ -1,12 +1,12 @@
 # Register-Martial-Arts
 
-O **Registro Marciais** é um aplicativo projetado para simplificar a rotina de academias, facilitando a gestão de alunos, turmas e professores.
+O **Registro Marcial** é um aplicativo projetado para simplificar a rotina de academias, facilitando a gestão de alunos, turmas e professores.
 Pensado para ser uma ferramenta eficiente e fácil de usar, ele otimiza a organização diária para que você possa se concentrar no que realmente importa.
 
 ### Problemas
-
+<p aling="justify">
 Por muitos anos, fui professor faixa preta de Taekwondo e administrei aulas para alunos de todas as idades em várias academias. Sempre foi um problema complicado ter o controle de todos os alunos, de suas presenças nas aulas, graduação, tempo de academia e vários outros fatores. Com o passar dos anos, visitei outras academias de diferentes professores e modalidades e notei que todas tinham o mesmo problema que eu. Claro que, com exceção daquelas academias que fazem parte de grandes redes e que já possuem seus próprios sistemas de administração, a grande maioria passava pelos mesmos perrengues que eu. O problema veio à tona quando a academia que eu pertencia e a de uma amiga (do karatê) se tornaram associações sem fins lucrativos. As academias precisam entregar relatórios regularmente para a Secretaria de Esportes de seu estado ou município. Nesses relatórios, é preciso entregar dados detalhados sobre os alunos (quantos têm, idade, turmas, graduação, presença, etc.). Se esses dados não forem precisos, pode haver uma auditoria para fiscalizar se está tudo certo, e isso é um problemão, caso aconteça.
-
+</p>
 
 ### Solução
 
