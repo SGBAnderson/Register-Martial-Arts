@@ -5,7 +5,9 @@ Pensado para ser uma ferramenta eficiente e fácil de usar, ele otimiza a organi
 
 ### Problemas
 
-Por muitos anos, fui professor faixa preta de Taekwondo e administrei aulas para alunos de todas as idades em várias academias. Sempre foi um problema complicado ter o controle de todos os alunos, de suas presenças nas aulas, graduação, tempo de academia e vários outros fatores. Com o passar dos anos, visitei outras academias de diferentes professores e modalidades e notei que todas tinham o mesmo problema que eu. Claro que, com exceção daquelas academias que fazem parte de grandes redes e que já possuem seus próprios sistemas de administração, a grande maioria passava pelos mesmos perrengues que eu. O problema veio à tona quando a academia que eu pertencia e a de uma amiga (do karatê) se tornaram associações sem fins lucrativos. As academias precisam entregar relatórios regularmente para a Secretaria de Esportes de seu estado ou município. Nesses relatórios, é preciso entregar dados detalhados sobre os alunos (quantos têm, idade, turmas, graduação, presença, etc.). Se esses dados não forem precisos, pode haver uma auditoria para fiscalizar se está tudo certo, e isso é um problemão, caso aconteça.
+Por muitos anos, fui professor faixa preta de Taekwondo e administrei aulas para alunos de todas as idades em várias academias. Sempre foi um problema complicado ter o controle de todos os alunos, de suas presenças nas aulas, graduação, tempo de academia e vários outros fatores. Com o passar dos anos, visitei outras academias de diferentes professores e modalidades e notei que todas tinham o mesmo problema que eu. Claro que, com exceção daquelas academias que fazem parte de grandes redes e que já possuem seus próprios sistemas de administração, a grande maioria passava pelos mesmos perrengues que eu. 
+
+O problema veio à tona quando a academia que eu pertencia e a de uma amiga (do karatê) se tornaram associações sem fins lucrativos. As academias precisam entregar relatórios regularmente para a Secretaria de Esportes de seu estado ou município. Nesses relatórios, é preciso entregar dados detalhados sobre os alunos (quantos têm, idade, turmas, graduação, presença, etc.). Se esses dados não forem precisos, pode haver uma auditoria para fiscalizar se está tudo certo, e isso é um problemão, caso aconteça.
 
 
 ### Solução
@@ -29,3 +31,6 @@ Então, depois de toda essa reflexão, estou aqui dando início a este projeto p
 1. Faça o clone do projeto: `git clone https://github.com/seu-usuario/register-students.git`
 2. Instale as dependências: `npm install`
 3. Inicie o servidor: `npm start`
+
+### Para mais informção sobre a Arquitetura do SoftWare acesse: 
+
