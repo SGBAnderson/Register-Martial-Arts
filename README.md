@@ -1,7 +1,7 @@
 # Register-Martial-Arts
 
 O **Registro Marcial** é um aplicativo projetado para simplificar a rotina de academias, facilitando a gestão de alunos, turmas e professores.
-Pensado para ser uma ferramenta eficiente e fácil de usar, ele otimiza a organização diária para que você possa se concentrar no que realmente importa.
+Pensado para ser uma ferramenta eficiente e fácil de usar, ele otimiza a organização diária das tarefas do dia-a-dia. 
 
 ### Problemas
 
