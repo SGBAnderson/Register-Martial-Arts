@@ -33,4 +33,4 @@ Então, depois de toda essa reflexão, estou aqui dando início a este projeto p
 3. Inicie o servidor: `npm start`
 
 ### Para mais informção sobre a Arquitetura do SoftWare acesse: 
-
+https://www.notion.so/Aplicativo-Registro-Marcial-244af336bfd48052ae13f89fc9ff3e2c?source=copy_link
