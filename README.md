@@ -1,8 +1,7 @@
 # Register-Martial-Arts
 
-O **Regitro de Artes Maciais** é um aplicativo desenvolvido para Academias de Artes Marciais com o objetivo de facilitar a gestão dos seus alunos, turmas e professores.
-
-Ele foi pensado para ser uma ferramenta simples e eficiente, ajudando na organização diária e permitindo que você foque no que realmente importa.
+O **Registro Marciais** é um aplicativo projetado para simplificar a rotina de academias, facilitando a gestão de alunos, turmas e professores.
+Pensado para ser uma ferramenta eficiente e fácil de usar, ele otimiza a organização diária para que você possa se concentrar no que realmente importa.
 
 ### Problemas
 
